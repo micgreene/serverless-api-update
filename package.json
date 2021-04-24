@@ -1,0 +1,23 @@
+{
+  "name": "serverless-api-update",
+  "version": "1.0.0",
+  "description": "Codefellows 401 JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micgreene/serverless-api-update.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micgreene/serverless-api-update/issues"
+  },
+  "homepage": "https://github.com/micgreene/serverless-api-update#readme",
+  "dependencies": {
+    "dynamoose": "^2.7.3"
+  }
+}
